@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="500" fill="white">
+    <symbol id="triangle" viewbox="0 0 500 500">
+        <polyline points="0,50 300,300 200,200" stroke-width="60" stroke="black"/>
+    </symbol>
+</svg>
