@@ -1,5 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="500" height="500" fill="white">
-    <symbol id="triangle" viewbox="0 0 500 500">
-        <polyline points="0,50 300,300 200,200" stroke-width="60" stroke="black"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="240" fill="white">
+    <symbol id="triangle" viewbox="0 0 240 240">
+        <polygon points=" 10,10 100,10 55,90" stroke="black" stroke-width="5" fill="none" stroke-linejoin="round"/>
+        <line x1="13" y1="12" x2="55" y2="40" stroke="black" stroke-width="5" stroke-linecap="round"/>
+        <line x1="55" y1="40"  x2="98" y2="11" stroke="black" stroke-width="5" stroke-linecap="round"/>
+        <line x1="55" y1="40" x2="55" y2="90" stroke="black" stroke-width="5" stroke-linecap="round"/> 
     </symbol>
 </svg>
